@@ -542,7 +542,7 @@ ion-icon{
 
 @media(min-width: 992px){
   .navbar{
-    padding: 0 3rem;
+    padding: 0 5rem;
   }
 }
 
@@ -842,7 +842,7 @@ ion-icon{
 
 @media (min-width: 576px){
   .navbar-mobile{
-    width: 50%;
+    width: 70%;
     max-width: 32rem;
   }
 }
