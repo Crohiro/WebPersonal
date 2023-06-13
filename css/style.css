@@ -374,7 +374,7 @@ ion-icon{
   left: 50%;
   top:50%;
   transform:translate(-50%,-50%);
-  border:1px solid #fff;
+  border:1px solid #000000;
   border-radius: 50%;
   transition:all 0.3s ease;
 } 
@@ -389,7 +389,7 @@ ion-icon{
   height: 0;
   border-style: solid;
   border-width: 6px 0 6px 12px;
-  border-color: transparent transparent transparent #fff;
+  border-color: transparent transparent transparent #000000;
 }
 
 .icon-play:hover{
