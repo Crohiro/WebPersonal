@@ -376,6 +376,7 @@ ion-icon{
   transform:translate(-50%,-50%);
   border:1px solid #000000;
   border-radius: 50%;
+  background-color:#ffffff75; 
   transition:all 0.3s ease;
 } 
 
